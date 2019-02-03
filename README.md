@@ -1,2 +1,2 @@
 # CS234
-My solutions to the Standoff CS234 2019
+My solutions to the Standford CS234 2019
